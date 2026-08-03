@@ -1,0 +1,122 @@
+[
+  {
+    "id": "amman",
+    "name_en": "Amman",
+    "name_ar": "عَمّان",
+    "lat": 31.9566,
+    "lng": 35.9456,
+    "region": "central",
+    "population": 4500000,
+    "base_weight": 0.42
+  },
+  {
+    "id": "zarqa",
+    "name_en": "Zarqa",
+    "name_ar": "الزرقاء",
+    "lat": 32.0728,
+    "lng": 36.0880,
+    "region": "central",
+    "population": 1500000,
+    "base_weight": 0.18
+  },
+  {
+    "id": "irbid",
+    "name_en": "Irbid",
+    "name_ar": "إربد",
+    "lat": 32.5568,
+    "lng": 35.8469,
+    "region": "north",
+    "population": 2000000,
+    "base_weight": 0.22
+  },
+  {
+    "id": "balqa",
+    "name_en": "Balqa (Salt)",
+    "name_ar": "البلقاء (السلط)",
+    "lat": 32.0389,
+    "lng": 35.7272,
+    "region": "central",
+    "population": 550000,
+    "base_weight": 0.05
+  },
+  {
+    "id": "mafraq",
+    "name_en": "Mafraq",
+    "name_ar": "المفرق",
+    "lat": 32.3424,
+    "lng": 36.2081,
+    "region": "north",
+    "population": 600000,
+    "base_weight": 0.03
+  },
+  {
+    "id": "jerash",
+    "name_en": "Jerash",
+    "name_ar": "جرش",
+    "lat": 32.2747,
+    "lng": 35.8961,
+    "region": "north",
+    "population": 270000,
+    "base_weight": 0.03
+  },
+  {
+    "id": "ajloun",
+    "name_en": "Ajloun",
+    "name_ar": "عجلون",
+    "lat": 32.3326,
+    "lng": 35.7517,
+    "region": "north",
+    "population": 200000,
+    "base_weight": 0.02
+  },
+  {
+    "id": "madaba",
+    "name_en": "Madaba",
+    "name_ar": "مأدبا",
+    "lat": 31.7197,
+    "lng": 35.7941,
+    "region": "central",
+    "population": 214000,
+    "base_weight": 0.02
+  },
+  {
+    "id": "karak",
+    "name_en": "Karak",
+    "name_ar": "الكرك",
+    "lat": 31.1853,
+    "lng": 35.7048,
+    "region": "south",
+    "population": 350000,
+    "base_weight": 0.015
+  },
+  {
+    "id": "tafilah",
+    "name_en": "Tafilah",
+    "name_ar": "الطفيلة",
+    "lat": 30.8374,
+    "lng": 35.6053,
+    "region": "south",
+    "population": 110000,
+    "base_weight": 0.005
+  },
+  {
+    "id": "maan",
+    "name_en": "Ma'an",
+    "name_ar": "معان",
+    "lat": 30.1949,
+    "lng": 35.7342,
+    "region": "south",
+    "population": 180000,
+    "base_weight": 0.005
+  },
+  {
+    "id": "aqaba",
+    "name_en": "Aqaba",
+    "name_ar": "العقبة",
+    "lat": 29.5321,
+    "lng": 35.0063,
+    "region": "south",
+    "population": 210000,
+    "base_weight": 0.01
+  }
+]

@@ -1,0 +1,57 @@
+/* ==========================================================================
+   DERMA IRIS - ARABIC RTL OVERRIDES
+   ========================================================================== */
+
+[dir="rtl"] {
+  font-family: 'Tajawal', sans-serif !important;
+}
+
+[dir="rtl"] h1, 
+[dir="rtl"] h2, 
+[dir="rtl"] h3, 
+[dir="rtl"] h4, 
+[dir="rtl"] h5, 
+[dir="rtl"] h6 {
+  font-family: 'Tajawal', sans-serif !important;
+  letter-spacing: 0 !important;
+}
+
+[dir="rtl"] .hero-floating-card {
+  left: auto;
+  right: -20px;
+}
+
+[dir="rtl"] .nav-link::after {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .ba-image-after {
+  border-right: none;
+  border-left: 3px solid var(--accent);
+}
+
+[dir="rtl"] .ba-label-before {
+  left: auto;
+  right: 20px;
+}
+
+[dir="rtl"] .ba-label-after {
+  right: auto;
+  left: 20px;
+}
+
+[dir="rtl"] .pkg-badge {
+  right: auto;
+  left: 10px;
+}
+
+[dir="rtl"] .strip-item i,
+[dir="rtl"] .btn i,
+[dir="rtl"] .guarantee-list li i {
+  transform: scaleX(-1);
+}
+
+[dir="rtl"] .lang-switch {
+  flex-direction: row-reverse;
+}
